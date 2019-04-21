@@ -53,7 +53,7 @@ public class Main extends JFrame{
         String[] firstleveldata = leveldata;
         Level level = new Level(firstleveldata);
         //level.drawTerrain();
-        int times = 1;  // How many more times we should run 1000 * 1000
+        int times = 1;  // In our test we run 1000 * 1000 times to get enough generations, since the canvas shows up at the end of program, here set 1 for TA to see the Canvas
         Lander bestLander = null;
 
         for(int N = 0; N<times; N++) {
