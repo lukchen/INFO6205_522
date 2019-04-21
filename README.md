@@ -13,6 +13,7 @@ We define 200 landers as the entire population and seperate them into 4 sub popu
 
 ![](6205project/pro1.gif)
 
-After many times of generations, the good landers survived and they keep producing better landers for next generation. Finally most of landers are able to land on target area by 1000 X 1000 times generations in our test 
+After many times of generations, the good landers survived and they keep producing better landers for next generation. Finally some of landers are able to land on target area by 1000 X 1000 times generations in our test:
 
 
+![alt text](6205project/output2.png)
